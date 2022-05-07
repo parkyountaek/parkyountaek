@@ -1,11 +1,38 @@
 # 👋 Hi there! 
-<p>I'm ***GIS & BackEnd Developer*** using Django and Spring Boot.</p>
+<p>I'm GIS & BackEnd Developer using Django and Spring Boot.</p>
 <p>Sometimes I develop FrontEnd like Nuxt.js and Vue.js.</p>
 
 # ✌ Skills
-## Platform & Languages
-https://img.shields.io/badge/<Django>-<Django>-<green>
+## Platform & Languages & Library
+<div>
+  <span><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></span>
+</div>
+<div>
+  <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
+</div>
+<div>
+  <span><img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=Leaflet&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></span>
+</div>
+
 ## Tools
+<div>
+  <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></span>
+</div>
+
 
 
 <!--
