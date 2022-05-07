@@ -4,7 +4,7 @@ Sometimes I develop FrontEnd like Nuxt.js.
 
 # ✌ Skills
 ## Platform & Languages
-https://img.shields.io/static/v1?label=<Django>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/badge/<Django>-<Django>-<green>
 ## Tools
 
 
