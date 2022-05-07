@@ -1,7 +1,12 @@
-### Hi there 👋
+# 👋 Hi there! 
+I'm GIS & BackEnd Developer using Django and Spring Boot.
+Sometimes I develop FrontEnd like Nuxt.js.
 
-### ✌ Skills
-Platform & Languages
+# ✌ Skills
+## Platform & Languages
+https://img.shields.io/static/v1?label=<Django>&message=<MESSAGE>&color=<COLOR>
+## Tools
+
 
 <!--
 **parkyountaek/parkyountaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
