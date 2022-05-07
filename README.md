@@ -1,6 +1,6 @@
 # 👋 Hi there! 
-I'm GIS & BackEnd Developer using Django and Spring Boot.
-Sometimes I develop FrontEnd like Nuxt.js.
+<p>I'm GIS & BackEnd Developer using Django and Spring Boot.</p>
+<p>Sometimes I develop FrontEnd like Nuxt.js and Vue.js.</p>
 
 # ✌ Skills
 ## Platform & Languages
