@@ -25,7 +25,6 @@
 </div>
 <div>
   <span><img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=Leaflet&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></span>
 </div>
 
