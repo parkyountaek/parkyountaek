@@ -38,13 +38,6 @@
   <span><img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/></span>
 </div>
 
-<hr>
-
-![parkyountaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyountaek&show_icons=true&theme=radical)
-
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyountaek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
